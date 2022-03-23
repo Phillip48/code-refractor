@@ -139,6 +139,7 @@ footer {
     text-align: center;
 }
 
-.footer h2 {
+/* Fix footer h2 syntax*/
+footer h2 {
     font-size: 20px;
 }
