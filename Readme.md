@@ -10,7 +10,7 @@
 -[Contributors](#Contributors)  
 
 ## Description  
-This project was to refractor the code in the html to make it more reusable and clean. This was done by using semantic tags and by adding alt attributes to the images. The CSS was also refractored by grouping together some classes that used the same CSS code.  
+This project was to refractor the code in the html to make it more reusable and clean to the developers. This was done by using semantic tags and by adding alt attributes to the images. The CSS was also refractored by grouping together some classes that used the same CSS code.  
 [Live link](https://phillip48.github.io/code-refractor/)  
 
 ## Images  
