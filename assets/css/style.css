@@ -1,13 +1,15 @@
+/* Styling that applies to the entire document */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Styling that applies to the body of document */
 body {
+    /* background color on the body */
     background-color: #d9dcd6;
 }
-
+/* Styling that applies to the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +42,7 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* A link styling */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,11 +51,12 @@ a {
 p {
     font-size: 16px;
 }
-
+/* styling Classes */
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    /* Background img and its stlying */
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
